@@ -1,0 +1,16 @@
+{
+  "name": "6.authoringlibraries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/webpack-numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}

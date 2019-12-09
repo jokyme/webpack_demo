@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'sourceCodeProBold';
+  src: url('./sourceCodePro-Bold.otf') format('opentype');
+  font-weight: 1000;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: 'sourceCodeProBold';
+  background: url('./icon.jpg');
+}
